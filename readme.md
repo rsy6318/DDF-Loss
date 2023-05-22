@@ -20,7 +20,7 @@ The reconstructed point cloud and trained model is saved at [example/shape_recon
 
 run `python exp_registration.py` to get the RE and TE.
 
-*(Note the rotation matrix here is the transpose of the GT rotation matrix.**)*
+*(Note the rotation matrix here is the transpose of the GT rotation matrix.*)
 
 ##### Scene Flow Estimation
 
