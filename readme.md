@@ -1,8 +1,6 @@
-# Unleash the Potential of 3D Point Cloud Modeling with A Calibrated Local Geometry-driven Distance Metric
+### Unleash the Potential of 3D Point Cloud Modeling with A Calibrated Local Geometry-driven Distance Metric [[arxiv link](https://arxiv.org/abs/2306.00552)]
 
-[[arxiv link](https://arxiv.org/abs/2306.00552)]
-
-Here we provide some examples for three tasks, including **shape reconstruction**, **rigid registration** and **scene flow estimation.**
+Here we provide the examples for three tasks, including **shape reconstruction**, **rigid registration** and **scene flow estimation.**
 
 ##### Requirements
 
