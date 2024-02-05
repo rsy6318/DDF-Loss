@@ -1,4 +1,4 @@
-### Unleash the Potential of 3D Point Cloud Modeling with A Calibrated Local Geometry-driven Distance Metric [[arxiv link](https://arxiv.org/abs/2306.00552)]
+### Directional Distance Field for Modeling the Difference between 3D Point Clouds [[OpenReview]([https://arxiv.org/abs/2306.00552](https://openreview.net/forum?id=lEkFq4RUCX&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)))]
 
 Here we provide the examples for three tasks, including **shape reconstruction**, **rigid registration** and **scene flow estimation.**
 
